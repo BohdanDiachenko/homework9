@@ -50,9 +50,9 @@ li{
 .loyal{
     overflow: hidden;
 }
-.loyal .box__left{
+.loyal:first-child > .box__left{
     margin-right: 15px;
 }
-.loyal .box__right{
+.loyal:last-child > .box__left{
     margin-left: 15px;
 }
