@@ -18,8 +18,10 @@ li{
 .section__two,
 .section__three {
     background-color: #E6E6E6;
-    margin-bottom: 50px;
     overflow: hidden;
+}
+.retreat{
+    margin-bottom: 50px;
 }
 .big__block{
     width: 200px;
